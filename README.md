@@ -19,4 +19,11 @@
 <a href="https://www.youtube.com/watch?v=Dcdd6SfUUKA"> Stack Value Type</a> <br>
 <a href="https://www.youtube.com/watch?v=BovQ9a3TpuI">Heap Reference Type</a> <br>
 <a href="https://www.geeksforgeeks.org/c-sharp-methods/"> Methods</a> <br>
+<h4>Task</h4>
+1)5 ədədin orta qiymətinin tapılması algoritmi qurun;
+2)Düzbucaqlının sahə və perimetrini tapan algoritmi qurun;
+3)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun;
+4)1 le verilmis eded arasinda kvadratlari cemi  algoritmini qurun;
+5)0 la verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun;
+her birini methodlar vasitesile yazin. <b>Ugurlar! </b> :)
 
