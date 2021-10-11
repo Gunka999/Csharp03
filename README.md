@@ -25,5 +25,5 @@
 3)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun; <br>
 4)1 le verilmis eded arasinda kvadratlari cemi  algoritmini qurun; <br>
 5)0 la verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun; <br>
-her birini methodlar vasitesile yazin. <b>Ugurlar! </b> :) <br>
+Hər birini methodlar vasitesile yazin. <b>Ugurlar! </b> :) <br>
 
