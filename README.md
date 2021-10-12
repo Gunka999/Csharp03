@@ -6,7 +6,7 @@
 - [Ramin Semedov]()
 - [Nofel Salahov](https://github.com/DrMadWill/PragmatechCsharpProject)
 - [Cavad Azizbeyli]()
-- [Xeyal Selimov]()
+- [Xeyal Selimov](https://github.com/xeyalselimov/PragmatechCsharpProjects.git)
 
  
 <h1> Lesson-1 [11 noyabr 2021] </h1>
