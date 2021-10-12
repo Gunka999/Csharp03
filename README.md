@@ -5,7 +5,7 @@
 - [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
 - [Ramin Semedov]()
 - [Nofel Salahov](https://github.com/DrMadWill/PragmatechCsharpProject)
-- [Cavad Azizbeyli]()
+- [Cavad Azizbeyli](https://github.com/Azizbayli7/PragmatechCsharpProjects.git)
 - [Xeyal Selimov](https://github.com/xeyalselimov/PragmatechCsharpProjects.git)
 
  
