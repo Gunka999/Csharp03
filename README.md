@@ -2,9 +2,9 @@
 ## Telebeler
 - [Emin Ekberov]()
 - [Hesen Hesenov]()
-- [Nurlan Heseliyev]()
+- [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
 - [Ramin Semedov]()
-- [Nofel Salahov]()
+- [Nofel Salahov](https://github.com/DrMadWill/PragmatechCsharpProject)
 - [Cavad Azizbeyli]()
 - [Xeyal Selimov]()
 
