@@ -27,3 +27,16 @@
 5)0 la verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun; <br>
 Hər birini methodlar vasitesile yazin. <b>Ugurlar! </b> :) <br>
 
+
+<h1> Lesson-2 [15 noyabr 2021] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://minafrzli.medium.com/string-vs-stringbuilder-array-vs-linked-list-c-7aa7fb3a5416">String vs StringBuilder</a> <br>
+<a href="https://minafrzli.medium.com/ref-out-keyword-c-80f21b025123">Ref & out keyword</a> <br>
+<a href="https://www.c-sharpcorner.com/UploadFile/0c1bb2/method-oveloading-and-overriding-C-Sharp/">Method Overloading </a> burdan Overloading-e qeder oxuyun <br>
+<a href="https://www.c-sharpcorner.com/blogs/type-casting-in-c-sharp"> Type Casting</a> <br>
+<a href="https://www.c-sharpcorner.com/article/boxing-and-unboxing2/">Boxing and Unboxing </a> <br>
+<a href="https://www.c-sharpcorner.com/blogs/some-string-functions-of-c-sharp">String Methods </a> <br>
+<a href="https://www.javatpoint.com/c-sharp-strings">String Methods 2 </a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/array-csharp">Arrays </a> <br>
+<a href="https://www.tutorialsteacher.com/articles/remove-duplicate-values-from-array-in-csharp">Duplicate values </a> <br>
