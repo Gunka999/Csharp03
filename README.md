@@ -40,3 +40,9 @@ Hər birini methodlar vasitesile yazin. <b>Ugurlar! </b> :) <br>
 <a href="https://www.javatpoint.com/c-sharp-strings">String Methods 2 </a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/array-csharp">Arrays </a> <br>
 <a href="https://www.tutorialsteacher.com/articles/remove-duplicate-values-from-array-in-csharp">Duplicate values </a> <br>
+<h4>Task</h4>
+1)String Substring algorithmini qurun; <br>
+2)Reverse algoritmi qurun : input: hello, output: olleh <br>
+3)Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana (soldan ve sagdan eyni oxunur)  <br>
+4)Remove duplicate data algoritmini yazin input: csharpcorner, output: csharpone c<br>
+Hazir methodlardan istifade etmeyin)) Meqsed hazir methodlarin algoritmini yazmaqdir <b>Ugurlar! </b> :) <br>
