@@ -9,7 +9,7 @@
 - [Xeyal Selimov](https://github.com/xeyalselimov/PragmatechCsharpProjects.git)
 
  
-<h1> Lesson-1 [11 noyabr 2021] </h1>
+<h1> Lesson-1 [11 oktyabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
 <a href="https://en.wikipedia.org/wiki/List_of_CLI_languages"> CLI languages</a> <br>
@@ -28,7 +28,7 @@
 Hər birini methodlar vasitesile yazin. <b>Ugurlar! </b> :) <br>
 
 
-<h1> Lesson-2 [15 noyabr 2021] </h1>
+<h1> Lesson-2 [15 oktyabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
 <a href="https://minafrzli.medium.com/string-vs-stringbuilder-array-vs-linked-list-c-7aa7fb3a5416">String vs StringBuilder</a> <br>
@@ -46,3 +46,12 @@ Hər birini methodlar vasitesile yazin. <b>Ugurlar! </b> :) <br>
 3)Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana (soldan ve sagdan eyni oxunur)  <br>
 4)Remove duplicate data algoritmini yazin input: csharpcorner, output: csharpone c<br>
 Hazir methodlardan istifade etmeyin)) Meqsed hazir methodlarin algoritmini yazmaqdir <b>Ugurlar! </b> :) <br>
+
+
+<h1> Lesson-2 [18 oktyabr 2021] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/">Use Params Keyword </a> <br>
+<a href="https://www.c-sharpcorner.com/blogs/class-and-object-in-c-sharp"> Class And Object </a> <br>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors">Constructors </a> <br>
+<a href="https://www.c-sharpcorner.com/UploadFile/3d39b4/arraylist-in-C-Sharp/">ArrayList </a> <br>
