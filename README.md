@@ -55,3 +55,12 @@ Hazir methodlardan istifade etmeyin)) Meqsed hazir methodlarin algoritmini yazma
 <a href="https://www.c-sharpcorner.com/blogs/class-and-object-in-c-sharp"> Class And Object </a> <br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors">Constructors </a> <br>
 <a href="https://www.c-sharpcorner.com/UploadFile/3d39b4/arraylist-in-C-Sharp/">ArrayList </a> <br>
+
+Student class-i yaradin:
+Fullname 
+GroupNo
+Age
+Student classi ucun GetBirthYear() metodunu yazin.Bu metod Studentin dogum ilini geri qaytarir
+Student Arrayi yaradin. 
+Qrup nomresini daxil etmekle bir qrupda nece telebenin oxudugunu check eden method yazin.(2ci parametr kimi array daxil edeceksiz)
+ps:Student yaradilarken butun deyerlerin verilmesi mecburidir
