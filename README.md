@@ -3,7 +3,7 @@
 - [Emin Ekberov](https://github.com/EminElekberov/PragmatechCsharpProject)
 - [Hesen Hesenov](https://github.com/hasanov080/PragmatechCsharpProject.git)
 - [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
-- [Ramin Semedov](github.com/RaminSemedov/PragmatechCsharpProject)
+- [Ramin Semedov](https://github.com/RaminSemedov/PragmatechCsharpProject)
 - [Nofel Salahov](https://github.com/DrMadWill/PragmatechCsharpProject)
 - [Cavad Azizbeyli](https://github.com/Azizbayli7/PragmatechCsharpProjects.git)
 - [Xeyal Selimov](https://github.com/xeyalselimov/PragmatechCsharpProjects.git)
