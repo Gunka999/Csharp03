@@ -51,6 +51,17 @@ Hazir methodlardan istifade etmeyin)) Meqsed hazir methodlarin algoritmini yazma
 <h1> Lesson-2 [18 oktyabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
+<hr>
+<h4>Quiz Neticesi</h4>
+<ul>
+ <li>Emin Elekberov 14</li>
+ <li>Hesen Hesenov 16</li>
+ <li>Cavad Azizbeyli 17</li>
+ <li>Nofel Salahov 14</li>
+ <li>Ramin Semedov 14</li>
+ <li>Xeyal Selimov 13</li>
+ <li> Nurlan Heseliyev 0</li>
+ </ul>
 <a href="https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/">Use Params Keyword </a> <br>
 <a href="https://www.c-sharpcorner.com/blogs/class-and-object-in-c-sharp"> Class And Object </a> <br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors">Constructors </a> <br>
