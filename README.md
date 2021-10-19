@@ -52,7 +52,7 @@ Hazir methodlardan istifade etmeyin)) Meqsed hazir methodlarin algoritmini yazma
 <hr>
 <h4>Oxumalı mövzular</h4>
 <hr>
- <a href="https://www.classtime.com/share/65e2947f-6ebc-43bf-af6b-46e8ccd41d6d?token=7c38935786993316ccfb72648e9cb87e7ef67ef38db30205a303c738eeee8b91"><h4>Quiz Neticesi</h4></a>
+ <a href="https://www.classtime.com/share/65e2947f-6ebc-43bf-af6b-46e8ccd41d6d?token=7c38935786993316ccfb72648e9cb87e7ef67ef38db30205a303c738eeee8b91">Quiz Neticesi</a> <br>
  <ul>
  <li>Emin Elekberov 14</li>
  <li>Hesen Hesenov 16</li>
