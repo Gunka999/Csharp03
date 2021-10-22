@@ -41,6 +41,7 @@ Hər birini methodlar vasitesile yazin. <b>Ugurlar! </b> :) <br>
 <a href="https://www.tutorialsteacher.com/csharp/array-csharp">Arrays </a> <br>
 <a href="https://www.tutorialsteacher.com/articles/remove-duplicate-values-from-array-in-csharp">Duplicate values </a> <br>
 <h4>Task</h4>
+<hr>
 1)String Substring algorithmini qurun; <br>
 2)Reverse algoritmi qurun : input: hello, output: olleh <br>
 3)Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana (soldan ve sagdan eyni oxunur)  <br>
@@ -48,7 +49,7 @@ Hər birini methodlar vasitesile yazin. <b>Ugurlar! </b> :) <br>
 Hazir methodlardan istifade etmeyin)) Meqsed hazir methodlarin algoritmini yazmaqdir <b>Ugurlar! </b> :) <br>
 
 
-<h1> Lesson-2 [18 oktyabr 2021] </h1>
+<h1> Lesson-3 [18 oktyabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
 <hr>
@@ -77,7 +78,7 @@ Qrup nomresini daxil etmekle bir qrupda nece telebenin oxudugunu check eden meth
 ps:Student yaradilarken butun deyerlerin verilmesi mecburidir<br>
 
 
-<h1> Lesson-2 [22 oktyabr 2021] </h1>
+<h1> Lesson-4 [22 oktyabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
 <hr>
