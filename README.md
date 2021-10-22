@@ -75,3 +75,26 @@ Student classi ucun GetBirthYear() metodunu yazin.Bu metod Studentin dogum ilini
 Student Arrayi yaradin. <br>
 Qrup nomresini daxil etmekle bir qrupda nece telebenin oxudugunu check eden method yazin.(2ci parametr kimi array daxil edeceksiz)<br>
 ps:Student yaradilarken butun deyerlerin verilmesi mecburidir<br>
+
+
+<h1> Lesson-2 [22 oktyabr 2021] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<hr>
+<a href="https://www.c-sharpcorner.com/UploadFile/36bc15/static-keyword-in-C-Sharp/">Static keyword </a> <br>
+<a href="https://www.geeksforgeeks.org/static-keyword-in-c-sharp/">Static keyword 2 </a> <br>
+<hr>
+<h4>Task</h4>
+Account - class
+<ul>
+ <li>No - her bir account obyektinin unique nomersidir ve onun necenci yarandigini gosterir</li>
+ <li>Username </li>
+ <li>Password</li>
+ </ul>
+
+IsUserNameValid() method - username yanlizca digit ve herflerden ibaret ola biler yoxlanisi
+
+IsPasswordValid() method-uzunluq 8-25, siferenin icinde en az bir symbol,1 uppurcase letter ve en az bir digit istifade olunmalidir yoxlanisi
+console readlinedan aldiginiz datani bu methodlarda yoxlayib sonra yeni obyekte menimsedeceksiz...
+
+1.Constructorda name ve password qebul edilsin
