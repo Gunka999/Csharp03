@@ -81,11 +81,9 @@ ps:Student yaradilarken butun deyerlerin verilmesi mecburidir<br>
 <h1> Lesson-4 [22 oktyabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
-<hr>
 <a href="https://www.c-sharpcorner.com/UploadFile/36bc15/static-keyword-in-C-Sharp/">Static keyword </a> <br>
 <a href="https://www.geeksforgeeks.org/static-keyword-in-c-sharp/">Static keyword 2 </a> <br>
 <h4>Task</h4>
-<hr>
 Account - class
 <ul>
  <li>No - her bir account obyektinin unique nomersidir ve onun necenci yarandigini gosterir</li>
