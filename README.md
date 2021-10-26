@@ -98,7 +98,7 @@ console readlinedan aldiginiz datani bu methodlarda yoxlayib sonra yeni obyekte 
 <h1> Lesson-4 [25 oktyabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
-1) Aşağıdaki tapşırığı yerinə yetirin:
+<b>1) Aşağıdaki tapşırığı yerinə yetirin: <b>
 a) Key və value-su string tipində olan Dictionary yaradın.
 
 b) İstifadəçidən 10 dəfə iki söz yazılması istənilsin:
@@ -133,21 +133,21 @@ Print etdikdən sonra soruşulur: "Yeni paytaxt axtarılsın? Y/N"
 
 İstifadəçi "Y" yazarsa yeni axtarış üçün ölkə adı istənilsin, "N" basarsa proqramdan çıxsın.
 
-2) Aşağıdaki tapşırığı yerinə yetirin:
+<b>2) Aşağıdaki tapşırığı yerinə yetirin: </b>
 a) string tipli Queue list-i yaradın.
 
 b) İçini müxtəlif mesajlarla doldurun.
 
 c) Əgər məlumat 10 item-dən çox olarsa, növbədə (queue-list) sonuncu olan elementi boşaldıb, yerinə yeni məlumatı salın.
 
-3) Aşağıdaki tapşırığı yerinə yetirin:
+<b>3) Aşağıdaki tapşırığı yerinə yetirin: </b>
 a) int tipində List yaradın.
 
 b) İstifadəçi 10 müxtəlif ədədlərlə listi doldursun.
 
 c) Daha sonra list-in son 5 elementi ilə ilk 5 elementinin yerlərini dəyişdirin.
 
-4) Aşağıdaki tapşırığı yerinə yetirin:
+<b> 4) Aşağıdaki tapşırığı yerinə yetirin: </b>
 a) int tipli elə bir kolleksiya yaradın ki, içində bütün item-lər unique olsun (təkrarlanma olmasın) və sort edilmiş vəziyyətdə olsun.
 
 b) Daha sonra içini müxtəlif ədədlərlə doldurun. (Console-dan)
