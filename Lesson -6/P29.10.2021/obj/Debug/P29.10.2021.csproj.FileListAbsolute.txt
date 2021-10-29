@@ -1,0 +1,6 @@
+C:\Users\Mina\source\repos\P29.10.2021\bin\Debug\P29.10.2021.exe.config
+C:\Users\Mina\source\repos\P29.10.2021\bin\Debug\P29.10.2021.exe
+C:\Users\Mina\source\repos\P29.10.2021\bin\Debug\P29.10.2021.pdb
+C:\Users\Mina\source\repos\P29.10.2021\obj\Debug\P29.10.2021.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\P29.10.2021\obj\Debug\P29.10.2021.exe
+C:\Users\Mina\source\repos\P29.10.2021\obj\Debug\P29.10.2021.pdb

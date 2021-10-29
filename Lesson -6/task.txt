@@ -1,0 +1,6 @@
+Telefon kitabçası yaratmaq üçün yeni bir tip yaratmalısınız. Kitabçaya yeni biri əlavə edildikdə şəxsin adı və nömrəsi daxil edilməlidir. Əgər şəxsin adı kitabçada mövcuddursa, Console-da istifadəçiyə bu barədə məlumat verilməli və istifadəçinin iki seçimdən birini etməli olduğu göstərilməlidir. 1. Əvvəlki nömrəni saxlamaq; 2. Yeni nömrəni yazmaq.
+
+
+Bundan əlavə kitabçada iki əlavə metod da olmalıdır. 1-ci metod şəxsin adını parameter olaraq qəbul etməlidir. Əgər bu adda kimsə varsa, o şəxsin telefon nömrəsini qaytarmalıdır, əks təkdirdə, bu adda kitabçada heç kəsin olmadığını bildirməlidir. 2-ci metod isə telefon nömrəsini qəbul etməlidir. Əgər bu nömrə kiməsə aiddirsə, o şəxsi qaytarmalıdır, əks təkdirdə, bu nömrənin kitabçada heç kəsə aid olmadığını bildirməlidir.
+
+Əlavə olaraq, yuxarıdakı metodları bitirənlər daha iki metod da yaza bilərlər. Kitabçadan şəxsin adına və ya telefon nömrəsinə görə kimisə tapıb, onu silmək üçün iki ayrıca metod: RemoveByName və RemoveByPhone. Hər ikisində əgər göndərilən ad və ya nömrə kitabçada yoxdursa, uyğun şəkildə cavab qaytarılmalıdır.
