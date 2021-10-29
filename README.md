@@ -168,40 +168,48 @@ c) Nəticəni ekrana çap edin.
 
 <h1> Lesson-4 [29 oktyabr 2021] </h1>
 <hr>
+<p>QUIZ neticesi </p>
+ <ul>
+ <li>Emin Elekberov 10</li>
+ <li>Cavad Azizbeyli 13</li>
+ <li>Nofel Salahov 13</li>
+ <li>Ramin Semedov 12</li>
+ <li>Xeyal Selimov 0</li>
+ <li> Nurlan Heseliyev 0</li>
+ </ul>
 Tekrar edin. Gelen dersden OOP-e giris edirik.Sinifde yazdigimiz taski nezerden kecirin <br/>
 Tapsiriq.---------------------------------- <br/>
 Studnet class-i:
 
-	-No -   studentin nomresini ifade edir,her student ucun unikal olur ve her student 
+-No -   studentin nomresini ifade edir,her student ucun unikal olur ve her student 
 		yarandigi anda yaranan student bu vaxta qeder yaranmis necenci 
 		studentditrse nomresi o olur.
 	
-	-Name - studentin adini ifade edir ve kostruktorda teleb olunur
-	-Surname - studentin soyadini ifade edit ve konstruktorda teleb olunur
+-Name - studentin adini ifade edir ve kostruktorda teleb olunur
+-Surname - studentin soyadini ifade edit ve konstruktorda teleb olunur
 
 Group class-i:
-	- Name - qrupun adini ifade edir ve konstruktorda teleb olunur
-	- No - qrupun nomresini ifade edir ve eyni ile studentneki kimi isleyir 
+- Name - qrupun adini ifade edir ve konstruktorda teleb olunur
+- No - qrupun nomresini ifade edir ve eyni ile studentneki kimi isleyir 
                ve nomreleme ise 100-den baslayir (misalcun: ilk yaran qrupun nomresi 101 olur)
-	-Students - Bu qrupa aid telebelerin saxlanildigi array-dir.Icerisindeki deyerler 
+-Students - Bu qrupa aid telebelerin saxlanildigi array-dir.Icerisindeki deyerler 
                     yalnizca class daxilinde deyisdirile bilir,kenardan(instance uzerinden) 
                     deyisiklik edile bilmir
-	Capacity - qrupmda maksimum nece telebe ola biler ifade edir ve kenardan deyisdirile
+Capacity - qrupmda maksimum nece telebe ola biler ifade edir ve kenardan deyisdirile
 	           bilmemelidir vek ostruktorda teleb edelir;
-	-AddStudent() - qrupa telebe elave etmek ucun metoddur.Eger elave olunacaq telebe 
+-AddStudent() - qrupa telebe elave etmek ucun metoddur.Eger elave olunacaq telebe 
                         capacity-i asirsa userden bunun ucun icaze istesin (y/n kimi, y secilse
                         elave etsin ve qrupun capacity-ini editlesin,n secse emeliyyati icra etmesin)
                         
-                        Bunlar edildikden sonra yaranacaq yeni qruplarin ve studentlerin console penceresinden elave edilmesiin temin edin
-Program run olduqda ekrana seciler gelsin 
-						
-			                                          			1- yeni telebe yarat
-				                                          		2- yeni qrup yarat
-                                                3- telebenin siyahisini goster
-                                                4- qruplarin siyahisini goster                                                
-                                                5- qrupa telebe elave et
-                                                6 -secilmis qrupdaki telebeleri goster
-						                                          7 - sistemden cix
+Bunlar edildikden sonra yaranacaq yeni qruplarin ve studentlerin console penceresinden elave edilmesiin temin edin .
+Program run olduqda ekrana seciler gelsin  <br/>
+1- yeni telebe yarat
+2- yeni qrup yarat
+3- telebenin siyahisini goster
+4- qruplarin siyahisini goster                                                
+5- qrupa telebe elave et
+6 -secilmis qrupdaki telebeleri goster
+7 - sistemden cix
 
 1-ci proses secilerse sisten sizden ad ve soyad yazmagiin teleb edir ve elave etdikden sonra sizden yeniden 
 2-ci proses secilerse qrupun adini ve capacity yazmaginizi teleb edir
