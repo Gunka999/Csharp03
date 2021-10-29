@@ -169,7 +169,7 @@ c) Nəticəni ekrana çap edin.
 <h1> Lesson-4 [29 oktyabr 2021] </h1>
 <hr>
 Tekrar edin. Gelen dersden OOP-e giris edirik.Sinifde yazdigimiz taski nezerden kecirin <br/>
-Tapsiriq.----------------------------------
+Tapsiriq.---------------------------------- <br/>
 Studnet class-i:
 
 	-No -   studentin nomresini ifade edir,her student ucun unikal olur ve her student 
