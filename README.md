@@ -166,45 +166,7 @@ b) Daha sonra içini müxtəlif ədədlərlə doldurun. (Console-dan)
 
 c) Nəticəni ekrana çap edin.
 
+<h1> Lesson-4 [29 oktyabr 2021] </h1>
+<hr>
+Tekrar edin. Gelen dersden OOP-e giris edirik.Sinifde yazdigimiz taski nezerden kecirin <br/>
 
-class PhoneBook
-    {
-        private readonly Dictionary<string, string> _phoneBook = new Dictionary<string, string>();
-
-        //public PhoneBook()
-        //{
-        //    _phoneBook = new Dictionary<string, string>();
-        //}
-
-        public void AddPerson(string name,string number)
-        {
-            if (_phoneBook.ContainsKey(name))
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"{name} is exist");
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine($"Select option: \n 1.Keep the number \n 2.Update");
-                string option = Console.ReadLine();
-                while (option !="1" && option !="2")
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine($"Pls  select correct option");
-                    Console.ForegroundColor = ConsoleColor.White;
-                    option = Console.ReadLine();
-                }
-                if (option =="2")
-                {
-                    _phoneBook[name] = number;
-                    Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine($"{number} successfully updated");
-                    Console.ForegroundColor = ConsoleColor.White;
-                }
-            }
-            else
-            {
-                _phoneBook.Add(name, number);
-                Console.WriteLine($"{name} with {number} added");
-            }
-        }
-
-    } 
