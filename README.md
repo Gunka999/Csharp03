@@ -224,8 +224,8 @@ Program run olduqda ekrana seciler gelsin  <br/>
 
 <h1> Lesson-7 [1 noyabr 2021] </h1>
 <hr>
-Asagidaki metodlari olan Account abstract classi yaradirsiniz 
-     - PasswordChecker() - parameter oalraq string sifreni qebul edir (abstract metod)  
+Asagidaki metodlari olan Account abstract classi yaradirsiniz <br/>
+     - PasswordChecker() - parameter oalraq string sifreni qebul edir (abstract metod)  br/>
      - ShowInfo() - virtual metod <br/>
      
      Asagidaki memberlerden ibaret User class-i yaradirsiniz ve Account-u miras verirsiniz: 
