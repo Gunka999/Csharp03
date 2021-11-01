@@ -224,8 +224,10 @@ Program run olduqda ekrana seciler gelsin  <br/>
 
 <h1> Lesson-7 [1 noyabr 2021] </h1>
 <hr>
+<h4>Oxumalı mövzular</h4>
+ <a href="https://minafrzli.medium.com/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">OOP 3 PRINSIP </a> <br>
 Asagidaki metodlari olan Account abstract classi yaradirsiniz <br/>
-     - PasswordChecker() - parameter oalraq string sifreni qebul edir (abstract metod)  br/>
+     - PasswordChecker() - parameter oalraq string sifreni qebul edir (abstract metod)  <br/>
      - ShowInfo() - virtual metod <br/>
      
      Asagidaki memberlerden ibaret User class-i yaradirsiniz ve Account-u miras verirsiniz: 
