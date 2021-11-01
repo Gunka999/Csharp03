@@ -224,23 +224,20 @@ Program run olduqda ekrana seciler gelsin  <br/>
 
 <h1> Lesson-7 [1 noyabr 2021] </h1>
 <hr>
-Asagidaki metodlari olan Account abstract classi yaradirsiniz 
-     - PasswordChecker() - parameter oalraq string sifreni qebul edir (abstract metod) 
-     - ShowInfo() - virtual metod
+Asagidaki metodlari olan Account abstract classi yaradirsiniz  <br/>
+     - PasswordChecker() - parameter oalraq string sifreni qebul edir (abstract metod)  <br/>
+     - ShowInfo() - virtual metod <br/>
      
-     Asagidaki memberlerden ibaret User class-i yaradirsiniz ve Account-u miras verirsiniz:
-     - Fullname
-     - Email
-     - Password
-     - PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini yoxlayib true/false deyer qaytarir.
-                        Şertler:
-                        - sifrede minimum 8 character olmalidir
-                        - sifreki buutun herfler boyuk olmamalidir
-                        - sifredeki butun herfler kicik olmamalidir 
-                         (yeni sifrede hem boyuk hem kicik herf olmalidir)
-                        
-                        
-     - ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir
+     Asagidaki memberlerden ibaret User class-i yaradirsiniz ve Account-u miras verirsiniz: <br/>
+     - Fullname <br/>
+     - Email <br/>
+     - Password <br/>
+     - PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini yoxlayib true/false deyer qaytarir. <br/>
+      Şertler:
+ - sifrede minimum 8 character olmalidir <br/>
+ - sifreki buutun herfler boyuk olmamalidir <br/>
+ - sifredeki butun herfler kicik olmamalidir    (yeni sifrede hem boyuk hem kicik herf olmalidir) <br/>
+  - ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir <br/>
      
-     User classina Account class-i miras verilir.User yarandigi zaman email ve sifre teyin edilmesi mecburidir.Usere sifre teyin edilerken sifrenin PasswordChecker        metodunun sertlerini odemesi lazimdir.
+  User classina Account class-i miras verilir.User yarandigi zaman email ve sifre teyin edilmesi mecburidir.Usere sifre teyin edilerken sifrenin PasswordChecker  metodunun sertlerini odemesi lazimdir.
      
