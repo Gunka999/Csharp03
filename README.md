@@ -243,3 +243,7 @@ Asagidaki metodlari olan Account abstract classi yaradirsiniz <br/>
      
   User classina Account class-i miras verilir.User yarandigi zaman email ve sifre teyin edilmesi mecburidir.Usere sifre teyin edilerken sifrenin PasswordChecker  metodunun sertlerini odemesi lazimdir.
      
+<h1> Lesson-8 [5 noyabr 2021] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+ <a href="https://minafrzli.medium.com/struct-yoxsa-class-daha-s%C3%BCr%C9%99tlidir-3b65e91f4903">Struct yoxsa Class daha sürətlidir? </a> <br>     
