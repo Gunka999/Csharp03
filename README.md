@@ -248,3 +248,32 @@ Asagidaki metodlari olan Account abstract classi yaradirsiniz <br/>
 <hr>
 <h4>Oxumalı mövzular</h4>
  <a href="https://minafrzli.medium.com/struct-yoxsa-class-daha-s%C3%BCr%C9%99tlidir-3b65e91f4903">Struct yoxsa Class daha sürətlidir? </a> <br>     
+ 
+ <h1> Lesson-9 [8 noyabr 2021] </h1>
+<hr>
+ <a href="www.classtime.com/share/ded632e8-0f89-4bcd-9104-9a154f821e57?token=7f6b819775b9ff2fa93bee7e4211a2d7030b86634a1aab83afc9bec8b8b9f516">Quiz Neticesi</a> <br>
+ <ul>
+ <li>Emin Elekberov 18</li>
+ <li>Cavad Azizbeyli 16</li>
+ <li>Nofel Salahov 17</li>
+ <li>Ramin Semedov 18</li>
+ <li>Xeyal Selimov 8</li>
+ <li> Nurlan Heseliyev 9</li>
+ </ul>
+<h4>Oxumalı mövzular</h4>
+ <a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
+ <a href="https://www.tutorialsteacher.com/csharp/csharp-interface">C# Interface 2</a> <br>
+ <a href="https://www.c-sharpcorner.com/uploadfile/puranindia/what-are-access-modifiers-in-C-Sharp/">Access Modifiers</a> <br>
+ ## Tapshiriq 1:
+
+Student.cs olsun, Name, Surname, Age propertyleri olsun, ancaq constructorda set olsun. Neche defe instance aldigimizi qaytaran Counter olsun, hansiniki yalniz constructorda set ede bilek.
+
+## Tapshiriq 2:
+
+IFigure interface yaratmaq, CalculateArea ve CalculatePerimeter method-u olsun. Rectangle, Circle, Triangle, Square bu interface-in methodlarini implement etsin.
+
+## Tapshiriq 3:
+
+ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene return type "double" olan ve parametrinde "params double[] numbers" method olsun. Bu 4 interface-i Calculator.cs class-inda her birini implement edin. Meselen: ISum interface-inde Sum() methodu olacaq ve arrayin butun elementlerini cemleyib qaytaracaq. Multiply - vurma, Difference -chixma, Divide - bolme. Sonda Program.cs-de Calculator.cs-i chagirib, verdiyiniz deyerlere uygun method chagirib neticeni gosterin.
+
+ 
