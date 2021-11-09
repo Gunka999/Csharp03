@@ -264,6 +264,7 @@ Asagidaki metodlari olan Account abstract classi yaradirsiniz <br/>
  <a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
  <a href="https://www.tutorialsteacher.com/csharp/csharp-interface">C# Interface 2</a> <br>
  <a href="https://www.c-sharpcorner.com/uploadfile/puranindia/what-are-access-modifiers-in-C-Sharp/">Access Modifiers</a> <br>
+ 
  ## Tapshiriq 1:
 
 Student.cs olsun, Name, Surname, Age propertyleri olsun, ancaq constructorda set olsun. Neche defe instance aldigimizi qaytaran Counter olsun, hansiniki yalniz constructorda set ede bilek.
