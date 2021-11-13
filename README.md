@@ -278,4 +278,10 @@ IFigure interface yaratmaq, CalculateArea ve CalculatePerimeter method-u olsun. 
 
 ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene return type "double" olan ve parametrinde "params double[] numbers" method olsun. Bu 4 interface-i Calculator.cs class-inda her birini implement edin. Meselen: ISum interface-inde Sum() methodu olacaq ve arrayin butun elementlerini cemleyib qaytaracaq. Multiply - vurma, Difference -chixma, Divide - bolme. Sonda Program.cs-de Calculator.cs-i chagirib, verdiyiniz deyerlere uygun method chagirib neticeni gosterin.
 
- 
+  
+<h1> Lesson-10 [13 noyabr 2021] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+ <a href="https://minafrzli.medium.com/solid-prinsipl%C9%99ri-c-da-3b2308bf046a">SOLID Prinsipləri C#-da</a> <br>
+ <a href="https://minafrzli.medium.com/dependency-injection-inversion-48244c4e5267">Dependency Injection != Inversion</a> <br>
+ <a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
