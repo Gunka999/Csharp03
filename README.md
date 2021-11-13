@@ -252,7 +252,7 @@ Asagidaki metodlari olan Account abstract classi yaradirsiniz <br/>
  
  <h1> Lesson-9 [8 noyabr 2021] </h1>
 <hr>
- <a href="www.classtime.com/share/ded632e8-0f89-4bcd-9104-9a154f821e57?token=7f6b819775b9ff2fa93bee7e4211a2d7030b86634a1aab83afc9bec8b8b9f516">Quiz Neticesi</a> <br>
+ <a target="blank" href="www.classtime.com/share/ded632e8-0f89-4bcd-9104-9a154f821e57?token=7f6b819775b9ff2fa93bee7e4211a2d7030b86634a1aab83afc9bec8b8b9f516">Quiz Neticesi</a> <br>
  <ul>
  <li>Emin Elekberov 18</li>
  <li>Cavad Azizbeyli 16</li>
