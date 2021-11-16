@@ -285,6 +285,7 @@ ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene 
  <a href="https://minafrzli.medium.com/solid-prinsipl%C9%99ri-c-da-3b2308bf046a">SOLID Prinsipləri C#-da</a> <br>
  <a href="https://minafrzli.medium.com/dependency-injection-inversion-48244c4e5267">Dependency Injection != Inversion</a> <br>
  <a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
+ 
  ### Tapşırıq
 
 Aptek sistemi
