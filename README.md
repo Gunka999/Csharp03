@@ -285,3 +285,33 @@ ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene 
  <a href="https://minafrzli.medium.com/solid-prinsipl%C9%99ri-c-da-3b2308bf046a">SOLID Prinsipləri C#-da</a> <br>
  <a href="https://minafrzli.medium.com/dependency-injection-inversion-48244c4e5267">Dependency Injection != Inversion</a> <br>
  <a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
+ ### Tapşırıq
+
+Aptek sistemi
+
+Aşağıdakı member-leri olan Medicine (derman) classi yaradirsiniz
+
+- Name - dermanin adi
+- Price - dermanin qiymeti
+- Count - dermanin sayi
+
+Medicine obyektinin adi ve qiymeti yaradildigi an teyin olunmalidir.Adsiz ve ya qiymetsiz medicine obyekti ola bilmez
+Qeyd: Dermanin qiymeti 0-dan boyuk olmalidir.Dermanin sayi 0-dan az ola bilmez.
+
+
+Aşağıdakı memberlerden ibaret Pharmacy (aptek) class-i yaradirsiniz
+
+- Medicines - aptekdeki dermanlar siyahisini ifade edir (Medicine array-i)
+- TotalIncome - derman satislarindan elde edilen gelir.Bu memberin deyeri yalnizca satislar zamani artmalidir.Basqa hec bir sekilde deyisdirile bilinmemelidir.
+
+ - Sell() - bu metod derman satisi ifade edir.Parameter olaraq dermanin adi ve sayini qebul edir.
+            Hemin ada gore sihayidan axtarib tapacagi dermanin satisini heyata kecirir.
+            
+ - FindMedicineByName() - bu metod adina gore axtarilan derman obyektini geri qaytarir.Parameter olaraq axtarilan dermanin adini qebul edir.
+                          Hemin ad ile dermanlar sihayisindan axtaris edib eyni adli derman obyektini tapıb geri qaytarir.
+
+ - AddMedicine() - bu metod dermanlar siyahisina yeni derman elave etmeyi ifade edir.Parameter olaraq medicine qebul edir.
+ 
+ Qeyd : aptekin dermanlar siyahisinda eyni adda yalnizca bir medicine obyekti ola biler.İkinci eyin adli medicine obyekti elave edile bilmez
+
+
