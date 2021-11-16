@@ -315,4 +315,14 @@ Aşağıdakı memberlerden ibaret Pharmacy (aptek) class-i yaradirsiniz
  
  Qeyd : aptekin dermanlar siyahisinda eyni adda yalnizca bir medicine obyekti ola biler.İkinci eyin adli medicine obyekti elave edile bilmez
 
-
+ <a href="https://www.classtime.com/share/83b6ad14-2078-4e97-b3b6-a719df50846d?token=d0d257d01c4af6745ac52d201a05b86f3088596a5a7b7f8004212e4e1cff1026">Quiz Neticesi</a> <br>
+ <ul>
+ <li>Emin Elekberov 7</li>
+ <li>Fuad Muradov 11</li>
+ <li>Cavad Azizbeyli 11</li>
+ <li>Nofel Salahov 11</li>
+ <li>Ramin Semedov 14</li>
+ <li>Xeyal Selimov 0</li>
+ <li> Nurlan Heseliyev 3</li>
+ <li> Sahin  Salimov 8</li>
+ </ul>
