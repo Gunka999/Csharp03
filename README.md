@@ -326,3 +326,10 @@ Aşağıdakı memberlerden ibaret Pharmacy (aptek) class-i yaradirsiniz
  <li> Nurlan Heseliyev 3</li>
  <li> Sahin  Salimov 8</li>
  </ul>
+ 
+ <h1> Lesson-11 [20 noyabr 2021] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+ <a href="https://minafrzli.medium.com/c-delegate-4e9078d987ca">C# Delegate</a> <br>
+ <a href="https://www.tutorialsteacher.com/csharp/csharp-extension-method">Extension Method</a> <br>
+ 
