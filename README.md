@@ -327,7 +327,11 @@ Aşağıdakı memberlerden ibaret Pharmacy (aptek) class-i yaradirsiniz
  <li> Sahin  Salimov 8</li>
  </ul>
  
- <h1> Lesson-11 [20 noyabr 2021] </h1>
+  <h1> Lesson-11 [14 noyabr 2021] </h1>
+  Tekrar
+<hr>
+ 
+ <h1> Lesson-12 [20 noyabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
  <a href="https://minafrzli.medium.com/c-delegate-4e9078d987ca">C# Delegate</a> <br>
