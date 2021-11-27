@@ -376,3 +376,10 @@ TotalSalesCount - bu deyer kassaya daxil edilmis satis emeliyyatlarinin sayini i
 AddSale - bu metod kassa aparatina yeni BİR satis elave etmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmoun-a elave edilmelidir
 
 RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmount-dan cixilir
+
+
+<h1> Lesson-14 [27 noyabr 2021] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://minafrzli.medium.com/c-delegate-4e9078d987ca">C# Delegate and events</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-event">C# Events</a> <br>
