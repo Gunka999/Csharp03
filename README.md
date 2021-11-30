@@ -383,3 +383,9 @@ RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. 
 <h4>Oxumalı mövzular</h4>
 <a href="https://minafrzli.medium.com/c-delegate-4e9078d987ca">C# Delegate and events</a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-event">C# Events</a> <br>
+
+
+<h1> Lesson-15 [28 noyabr 2021] </h1>
+<hr>
+Homework - C# WinForm Start
+Mini Kitabxana üçün bir app yazın. Kitabların adı, ISBN nömrəsi (user daxil edəcək və duplicate ola bilməz), qiyməti olmalıdır. Janrlar olacaq, janrın adı və unikal sistem tərəfindən yaradılan Id-si olacaq. Hər kitabın janr İd-si olmalıdır. Kitab yaradıldıqda janr mütləq seçilməlidir. ListBox-da bütün kitablar siyahı şəklində görsənməlidir. Kitablar janra görə listbox daxilində filter oluna bilməlidir.
