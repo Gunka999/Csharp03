@@ -1,0 +1,9 @@
+C:\Users\Mina\source\repos\P11.28.2021\bin\Debug\P11.28.2021.exe.config
+C:\Users\Mina\source\repos\P11.28.2021\bin\Debug\P11.28.2021.exe
+C:\Users\Mina\source\repos\P11.28.2021\bin\Debug\P11.28.2021.pdb
+C:\Users\Mina\source\repos\P11.28.2021\obj\Debug\P11.28.2021.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\P11.28.2021\obj\Debug\P11._28._2021.Properties.Resources.resources
+C:\Users\Mina\source\repos\P11.28.2021\obj\Debug\P11.28.2021.csproj.GenerateResource.cache
+C:\Users\Mina\source\repos\P11.28.2021\obj\Debug\P11.28.2021.exe
+C:\Users\Mina\source\repos\P11.28.2021\obj\Debug\P11.28.2021.pdb
+C:\Users\Mina\source\repos\P11.28.2021\obj\Debug\P11._28._2021.Form1.resources
