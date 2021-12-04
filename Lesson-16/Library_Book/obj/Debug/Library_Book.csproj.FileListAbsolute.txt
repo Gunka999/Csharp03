@@ -1,0 +1,9 @@
+C:\Users\Mina\source\repos\Library_Book\bin\Debug\Library_Book.exe.config
+C:\Users\Mina\source\repos\Library_Book\bin\Debug\Library_Book.exe
+C:\Users\Mina\source\repos\Library_Book\bin\Debug\Library_Book.pdb
+C:\Users\Mina\source\repos\Library_Book\obj\Debug\Library_Book.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\Library_Book\obj\Debug\Library_Book.Form1.resources
+C:\Users\Mina\source\repos\Library_Book\obj\Debug\Library_Book.Properties.Resources.resources
+C:\Users\Mina\source\repos\Library_Book\obj\Debug\Library_Book.csproj.GenerateResource.cache
+C:\Users\Mina\source\repos\Library_Book\obj\Debug\Library_Book.exe
+C:\Users\Mina\source\repos\Library_Book\obj\Debug\Library_Book.pdb
