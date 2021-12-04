@@ -389,3 +389,17 @@ RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. 
 <hr>
 Homework - C# WinForm Start
 Mini Kitabxana üçün bir app yazın. Kitabların adı, ISBN nömrəsi (user daxil edəcək və duplicate ola bilməz), qiyməti olmalıdır. Janrlar olacaq, janrın adı və unikal sistem tərəfindən yaradılan Id-si olacaq. Hər kitabın janr İd-si olmalıdır. Kitab yaradıldıqda janr mütləq seçilməlidir. ListBox-da bütün kitablar siyahı şəklində görsənməlidir. Kitablar janra görə listbox daxilində filter oluna bilməlidir.
+
+<h1> Lesson-15 [28 noyabr 2021] </h1>
+<hr>
+<p>QUIZ neticesi </p>
+ <ul>
+ <li>Emin Elekberov 19</li>
+ <li>Cavad Azizbeyli ----</li>
+ <li>Nofel Salahov 19</li>
+ <li>Ramin Semedov ---</li>
+ <li>Xeyal Selimov 16</li>
+ <li> Nurlan Heseliyev ---</li>
+ <li> Fuad Muradov 18</li>
+ <li>Sahin Selimov 18</li>
+ </ul>
