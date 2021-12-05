@@ -408,3 +408,5 @@ Mini Kitabxana üçün bir app yazın. Kitabların adı, ISBN nömrəsi (user da
 <hr>
 Bir formu acdiqda diger formun baglanmasi (taskda da var) arasdirin. https://www.codegrepper.com/code-examples/whatever/c%23+open+a+new+form+and+close+current
 Taski 17ci ders papkasinin icindekine atmisam
+<h4>Oxumalı mövzular</h4>
+<a href="https://minafrzli.medium.com/c-thread-1457f902a17a"> C# Thread</a> <br>
