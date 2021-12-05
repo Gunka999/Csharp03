@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\bin\Debug\netcoreapp2.1\P310_Thread_Start.deps.json
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\bin\Debug\netcoreapp2.1\P310_Thread_Start.runtimeconfig.json
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\bin\Debug\netcoreapp2.1\P310_Thread_Start.runtimeconfig.dev.json
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\bin\Debug\netcoreapp2.1\P310_Thread_Start.dll
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\bin\Debug\netcoreapp2.1\P310_Thread_Start.pdb
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\obj\Debug\netcoreapp2.1\P310_Thread_Start.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\obj\Debug\netcoreapp2.1\P310_Thread_Start.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\obj\Debug\netcoreapp2.1\P310_Thread_Start.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\obj\Debug\netcoreapp2.1\P310_Thread_Start.AssemblyInfo.cs
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\obj\Debug\netcoreapp2.1\P310_Thread_Start.dll
+C:\Users\Code\source\repos\P310_Thread_Start\P310_Thread_Start\obj\Debug\netcoreapp2.1\P310_Thread_Start.pdb
