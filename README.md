@@ -395,11 +395,11 @@ Mini Kitabxana üçün bir app yazın. Kitabların adı, ISBN nömrəsi (user da
 <p>QUIZ neticesi </p>
  <ul>
  <li>Emin Elekberov 19</li>
- <li>Cavad Azizbeyli ----</li>
+ <li>Cavad Azizbeyli 15</li>
  <li>Nofel Salahov 19</li>
  <li>Ramin Semedov ---</li>
  <li>Xeyal Selimov 16</li>
- <li> Nurlan Heseliyev ---</li>
+ <li> Nurlan Heseliyev 0</li>
  <li> Fuad Muradov 18</li>
  <li>Sahin Selimov 18</li>
  </ul>
