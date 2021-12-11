@@ -410,3 +410,8 @@ Bir formu acdiqda diger formun baglanmasi (taskda da var) arasdirin. https://www
 Taski 17ci ders papkasinin icindekine atmisam
 <h4>Oxumalı mövzular</h4>
 <a href="https://minafrzli.medium.com/c-thread-1457f902a17a"> C# Thread</a> <br>
+
+ <h1> Lesson-18 [10 dekabr 2021] </h1>
+<hr>
+<a href="https://minafrzli.medium.com/c-thread-1457f902a17a"> C# Thread</a> <br>
+Dersde islediyimiz taski tamamlamaq
