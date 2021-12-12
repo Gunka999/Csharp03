@@ -424,6 +424,5 @@ Dersde islediyimiz taski tamamlamaq
 <a href="https://www.c-sharpcorner.com/article/working-with-c-sharp-streamreader/">C# StreamReader </a> <br>
 <a href="https://www.csharp-examples.net/get-files-from-directory/">Get Files from Directory </a> <br>
 Tapsiriq 19cu dersin icinde verilib
-
-
+Gelen ders quiz olacaq ciddi hazirlasin! Ugurlar
 
