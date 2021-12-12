@@ -415,3 +415,15 @@ Taski 17ci ders papkasinin icindekine atmisam
 <hr>
 <a href="https://minafrzli.medium.com/c-thread-1457f902a17a"> C# Thread</a> <br>
 Dersde islediyimiz taski tamamlamaq
+
+ <h1> Lesson-19 [12 dekabr 2021] </h1>
+<hr>
+<a href="https://minafrzli.medium.com/c-thread-1457f902a17a"> C# Thread</a> <br>
+<a href="https://www.c-sharpcorner.com/article/task-and-thread-in-c-sharp/">Task And Thread In C#</a> <br>
+<a href="https://www.c-sharpcorner.com/UploadFile/ff0d0f/streamreader-and-streamwriter-in-C-Sharp-net/">StreamReader And StreamWriter Classes In C#</a> <br>
+<a href="https://www.c-sharpcorner.com/article/working-with-c-sharp-streamreader/">C# StreamReader </a> <br>
+<a href="https://www.csharp-examples.net/get-files-from-directory/">Get Files from Directory </a> <br>
+Tapsiriq 19cu dersin icinde verilib
+
+
+
