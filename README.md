@@ -7,7 +7,7 @@
 - [Cavad Azizbeyli](https://github.com/Azizbayli7/PragmatechCsharpProjects.git)
 - [Xeyal Selimov](https://github.com/xeyalselimov/PragmatechCsharpProjects.git)
 - [Sahin Selimov](https://github.com/ShahinSalimov/PragmatechCsharpProject)
-- [Fuad Muradov]()
+- [Fuad Muradov](https://github.com/fuadmuradov/Pragmatech)
 
  
 <h1> Lesson-1 [11 oktyabr 2021] </h1>
