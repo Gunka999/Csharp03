@@ -426,3 +426,8 @@ Dersde islediyimiz taski tamamlamaq
 Tapsiriq 19cu dersin icinde verilib
 Gelen ders quiz olacaq ciddi hazirlasin! Ugurlar
 
+
+ <h1> Lesson-20 [17 dekabr 2021] </h1>
+<hr>
+<a href="https://minafrzli.medium.com/c-reflection-cba72bfd6f3e">C# Reflection</a> <br>
+<a href="https://minafrzli.medium.com/c-garbage-collection-b3a723926c33">C# Garbage Collection</a> <br>
