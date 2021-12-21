@@ -444,33 +444,33 @@ Gelen ders quiz olacaq ciddi hazirlasin! Ugurlar
 <a href="https://www.w3schools.com/sql/sql_syntax.asp"> </a>
 <a href="">SQL Syntax </a>
 <a href="https://www.javatpoint.com/dbms-sql-command"> SQL Commands</a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-create-database/">SQL Server CREATE DATABASE </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-drop-database/"> SQL Server DROP DATABASE</a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-create-table/">SQL Server CREATE TABLE </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-identity/">SQL Server Identity </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-table-add-column/">SQL Server ALTER TABLE ADD Column </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-table-alter-column/">SQL Server ALTER TABLE ALTER COLUMN </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-table-drop-column/">SQL Server ALTER TABLE DROP COLUMN </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-rename-table/">SQL Server Rename Table </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-drop-table/">SQL Server DROP TABLE </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-select/"> SELECT</a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-insert/">Insert </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-update/">Update </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-delete/">Delete</a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-top/">Top </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-order-by/">SQL Server ORDER BY </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-where/">Where </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-and/">AND </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-or/">OR </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-in/">IN</a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-between/">Between</a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-like/">Like</a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-offset-fetch/">Fetch </a>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-create-database/">SQL Server CREATE DATABASE </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-drop-database/"> SQL Server DROP DATABASE</a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-create-table/">SQL Server CREATE TABLE </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-identity/">SQL Server Identity </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-table-add-column/">SQL Server ALTER TABLE ADD Column </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-table-alter-column/">SQL Server ALTER TABLE ALTER COLUMN </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-alter-table-drop-column/">SQL Server ALTER TABLE DROP COLUMN </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-rename-table/">SQL Server Rename Table </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-drop-table/">SQL Server DROP TABLE </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-select/"> SELECT</a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-insert/">Insert </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-update/">Update </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-delete/">Delete</a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-top/">Top </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-order-by/">SQL Server ORDER BY </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-where/">Where </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-and/">AND </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-or/">OR </a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-in/">IN</a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-between/">Between</a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-like/">Like</a> <br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-offset-fetch/">Fetch </a> <br/>
 <a href=""> </a>
-2. Aşağıdakı taskları SQL queryləri ilə yazın.
+2. Aşağıdakı taskları SQL queryləri ilə yazın. <br/>
 Baza yaradın, tabellara data əlavə edin, CRUD(create,read,update-delete) istifade edin. Academy database, student table, grade,fullname,birthdate,group
 AND,OR,IN,BETWEEN,LIKE,FETCH istifade edin. Bir bir dersde kodlara baxacam. Sonda ev tapsirigini dersde gosterdiyim kimi query olan file repoya yukleyin.
-Note. Linklər çox olsada, sadədir.
+Note. Linklər çox olsada, sadədir. <br/>
 
 
 
