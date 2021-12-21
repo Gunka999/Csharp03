@@ -435,13 +435,13 @@ Gelen ders quiz olacaq ciddi hazirlasin! Ugurlar
 
  <h1> Lesson-21 [20 dekabr 2021] </h1>
 <hr>
-<a href="https://minafrzli.medium.com/sql-in-ilk-t%C9%99m%C9%99l-anlay%C4%B1%C5%9Flar%C4%B1-part-1-f49438345a6b">SQL-in ilk təməl anlayışları(Part 1) </a>
-<a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15">Sql Management studio -i yuklemek </a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">Sql expressi de download edin (dersde gostermisem) </a>
-<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-data-types/">SQL data-types </a>
-<a href="https://www.w3schools.com/sql/sql_intro.asp">Introduction to SQL </a>
-<a href="https://www.w3schools.com/sql/sql_syntax.asp"> </a>
-<a href="">SQL Syntax </a>
+<a href="https://minafrzli.medium.com/sql-in-ilk-t%C9%99m%C9%99l-anlay%C4%B1%C5%9Flar%C4%B1-part-1-f49438345a6b">SQL-in ilk təməl anlayışları(Part 1) </a><br/>
+<a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15">Sql Management studio -i yuklemek </a><br/>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">Sql expressi de download edin (dersde gostermisem) </a><br/>
+<a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-data-types/">SQL data-types </a><br/>
+<a href="https://www.w3schools.com/sql/sql_intro.asp">Introduction to SQL </a><br/>
+<a href="https://www.w3schools.com/sql/sql_syntax.asp"> </a><br/>
+<a href="">SQL Syntax </a><br/>
 <a href="https://www.javatpoint.com/dbms-sql-command"> SQL Commands</a>
 <a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-create-database/">SQL Server CREATE DATABASE </a> <br/>
 <a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-drop-database/"> SQL Server DROP DATABASE</a> <br/>
