@@ -433,7 +433,6 @@ Gelen ders quiz olacaq ciddi hazirlasin! Ugurlar
 <a href="https://minafrzli.medium.com/c-garbage-collection-b3a723926c33">C# Garbage Collection</a> <br>
 
 
-
  <h1> Lesson-21 [20 dekabr 2021] </h1>
 <hr>
 <a href="https://minafrzli.medium.com/sql-in-ilk-t%C9%99m%C9%99l-anlay%C4%B1%C5%9Flar%C4%B1-part-1-f49438345a6b">SQL-in ilk təməl anlayışları(Part 1) </a>
