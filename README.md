@@ -465,11 +465,16 @@ Gelen ders quiz olacaq ciddi hazirlasin! Ugurlar
 <a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-between/">Between</a> <br/>
 <a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-like/">Like</a> <br/>
 <a href="https://www.sqlservertutorial.net/sql-server-basics/sql-server-offset-fetch/">Fetch </a> <br/>
-<a href=""> </a>
 2. Aşağıdakı taskları SQL queryləri ilə yazın. <br/>
 Baza yaradın, tabellara data əlavə edin, CRUD(create,read,update-delete) istifade edin. Academy database, student table, grade,fullname,birthdate,group
 AND,OR,IN,BETWEEN,LIKE,FETCH istifade edin. Bir bir dersde kodlara baxacam. Sonda ev tapsirigini dersde gosterdiyim kimi query olan file repoya yukleyin.
 Note. Linklər çox olsada, sadədir. <br/>
 
+
+ <h1> Lesson-22 [24 dekabr 2021] </h1>
+<hr>
+<a href="https://minafrzli.medium.com/sql-in-ilk-t%C9%99m%C9%99l-anlay%C4%B1%C5%9Flar%C4%B1-part-2-a401085d6800"> SQL-in ilk təməl anlayışları(Part 2)</a> <br/>
+<a href="https://minafrzli.medium.com/sql-relationships-and-joins-e7aa5906373d">SQL Relationships and Joins </a> <br/>
+<a href=""> </a> <br/>
 
 
