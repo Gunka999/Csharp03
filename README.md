@@ -498,9 +498,7 @@ Note. Linklər çox olsada, sadədir. <br/>
 - BUTUN CUSTOMERLERI POSITIONLARNAN JOIN EDIB LAZIM OLAN COLUMNLARI GOSTERMEK
 
 ## Tapşırıq
-  
-  QEYD: Tapsiriq bir sql fayli uzerinde olacaq ,eyni ile menim dersde yazdigim kimi bir query fayli yaradib save edirsiniz ve onun uzerinde commandlari yazirsiniz,yekunda da hemin fayli ev tapsirigi olaraq gonderirsiniz.
-  
+   
   - Market adli Database yaradin
   
   - Icinde Products Table-i yaradin.Product table-inda Id,Name,Price columnlari olsun
