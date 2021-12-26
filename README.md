@@ -478,7 +478,7 @@ Note. Linklər çox olsada, sadədir. <br/>
 <a href=""> </a> <br/>
 
  <h1> Lesson-23 [26 dekabr 2021] </h1>
-### Sinifdeki tapshiriq (kim bitirmeyibse bitirsin ve yuklesin):
+### Sinifdeki tapshiriq
 
 - CREATE COMPANY DATABASE
 - USE
