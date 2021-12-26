@@ -497,3 +497,23 @@ Note. Linklər çox olsada, sadədir. <br/>
 - CUSTOMER-IN POSITIONID-SINI DOLDURMAQ
 - BUTUN CUSTOMERLERI POSITIONLARNAN JOIN EDIB LAZIM OLAN COLUMNLARI GOSTERMEK
 
+## Tapşırıq
+  
+  QEYD: Tapsiriq bir sql fayli uzerinde olacaq ,eyni ile menim dersde yazdigim kimi bir query fayli yaradib save edirsiniz ve onun uzerinde commandlari yazirsiniz,yekunda da hemin fayli ev tapsirigi olaraq gonderirsiniz.
+  
+  - Market adli Database yaradin
+  
+  - Icinde Products Table-i yaradin.Product table-inda Id,Name,Price columnlari olsun
+
+  - Products table-na yeni bir Brand columnu elave edin
+
+  - Products table-a value-lar insert edin (10-15 dene product datasi kifayetdir)
+  
+  - Qiymeti 10-dan yuxari olan Product datalarinin siyahisini getiren query yazin
+
+  - Qiymeti Productlarin price-larinin average-den kicik olan Products datalarinin siyahisini getiren query yazin
+
+  - Brand uzunlugu 5-den boyuk olan Productlarin siyahisini getiren query.Gelen datalarda Mehsulun adi ve Brand adi 1 columnda gorsensin ve Column adi ProductInfo olsun (dersdeki name ve surname-i fullname kimi gostermeye uygun)
+  
+ 
+
