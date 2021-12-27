@@ -475,7 +475,6 @@ Note. Linklər çox olsada, sadədir. <br/>
 <hr>
 <a href="https://minafrzli.medium.com/sql-in-ilk-t%C9%99m%C9%99l-anlay%C4%B1%C5%9Flar%C4%B1-part-2-a401085d6800"> SQL-in ilk təməl anlayışları(Part 2)</a> <br/>
 <a href="https://minafrzli.medium.com/sql-relationships-and-joins-e7aa5906373d">SQL Relationships and Joins </a> <br/>
-<a href=""> </a> <br/>
 
  <h1> Lesson-23 [26 dekabr 2021] </h1>
 ### Sinifdeki tapshiriq
@@ -515,3 +514,32 @@ Note. Linklər çox olsada, sadədir. <br/>
   
  
 
+ <h1> Lesson-23 [26 dekabr 2021] </h1>
+<hr>
+<a href="https://minafrzli.medium.com/sql-stored-procedure-af131291060b"> SQL Stored Procedure</a> <br/>
+<a href=""> </a> <br/>
+<a href=""> </a> <br/>
+<a href=""> </a> <br/>
+<a href=""> </a> <br/>
+
+# Tapşırıq
+
+https://www.parfumshop.az/ sayta esasen sade bir databaza sturukturu qurmaginizi isteyirem
+Parfumlar, parfum kateqoriyalari, parfum brendleri, parfum satislarinin table-lari olmalidir.Elave table-lar yarada bilersiniz ehtiyaca gore,minimual olaraq bu yazdiqlarim olmalidi,elave olaraq sayta esasen databaza strukturunuzu genislendire bilersiz(saytdaki nisbeted daha genisdi cunki)
+Databaza strukturunu https://www.dbdesigner.net/ saytinda qurub, pdf export edib gondermelisiz.Bunun ucun saytdan qeydiyyatdan kecmelisiz
+- INSERT,UPDATE,DELETE emeliyyatlarini procedure vasitesile icra etmek. Datalari table-a dolduranda istifade edin
+
+- parfum datalarini asagidaki columnlar kimi qayataran bir view yaradirsiniz:
+  Id,Name,Price,BrandName,CategoryName
+
+- parfum satislari datalarini asagidaki sekilde qaytaran bir view : 
+  Id,ParfumName,BrandName,CategoryName,Price
+
+- parfum satislari datalari ucun bir procedure yazirsiniz.Bu procedure gondeirlmis iki qiymet araliginda
+  olan satis melumatlarini asagidaki columnlar seklinde gosterir : 
+  Id,ParfumName,BrandName,CategoryName,Price
+   
+- parfum satis datalarini ucun procedure yaradiresinz , parameter olaraq serach metni, min qiymet ve max qiymet qebul eden procedur 
+  parfumename, brandname ve ya category name-inde hemin serach valusu olan ve qiymeti gonderilmis min max qiymet intervalinda olan 
+  parfum datalrini asagidaki sekilde qaytarsin: 
+  Id,ParfumName,BrandName,CategoryName,Price
