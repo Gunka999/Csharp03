@@ -1,7 +1,6 @@
 # Csharp03
 ## Telebeler
 - [Emin Ekberov](https://github.com/EminElekberov/PragmatechCsharpProject)
-- [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
 - [Ramin Semedov](https://github.com/RaminSemedov/PragmatechCsharpProject)
 - [Nofel Salahov](https://github.com/DrMadWill/PragmatechCsharpProject)
 - [Cavad Azizbeyli](https://github.com/Azizbayli7/PragmatechCsharpProjects.git)
