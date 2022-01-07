@@ -543,11 +543,11 @@ Databaza strukturunu https://www.dbdesigner.net/ saytinda qurub, pdf export edib
 <hr>
 Task <br>
 <a href="https://www.classtime.com/share/c32fec41-124a-4894-b8e5-f20eca21da2a?token=bab36c60edff27c2701eb77a2d02a4e848428bac7f1a346062ed2e8c6b0a3bd7">SQL QUIZ </a> <br/>
-Neticeler
-Nofel-89
-Fuad-89
-Xeyal-84
-Cavad-89
-Emin-89
+Neticeler<br/>
+Nofel-89 <br/>
+Fuad-89 <br/>
+Xeyal-84 <br/>
+Cavad-89 <br/>
+Emin-89 <br/>
 Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyRegister table-a da avtomatik insert getsin
 
