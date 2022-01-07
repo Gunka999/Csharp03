@@ -533,14 +533,21 @@ Databaza strukturunu https://www.dbdesigner.net/ saytinda qurub, pdf export edib
   olan satis melumatlarini asagidaki columnlar seklinde gosterir : 
   Id,ParfumName,BrandName,CategoryName,Price
   
-  
-  
- <h1> Lesson-25 [7 yanvar 2022] </h1>
-<hr>
-Task <br>
-Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyRegister table-a da avtomatik insert getsin
-   
 - parfum satis datalarini ucun procedure yaradiresinz , parameter olaraq serach metni, min qiymet ve max qiymet qebul eden procedur 
   parfumename, brandname ve ya category name-inde hemin serach valusu olan ve qiymeti gonderilmis min max qiymet intervalinda olan 
   parfum datalrini asagidaki sekilde qaytarsin: 
   Id,ParfumName,BrandName,CategoryName,Price
+
+  
+<h1> Lesson-25 [7 yanvar 2022] </h1>
+<hr>
+Task <br>
+<a href="https://www.classtime.com/share/c32fec41-124a-4894-b8e5-f20eca21da2a?token=bab36c60edff27c2701eb77a2d02a4e848428bac7f1a346062ed2e8c6b0a3bd7">SQL QUIZ </a> <br/>
+Neticeler
+Nofel-89
+Fuad-89
+Xeyal-84
+Cavad-89
+Emin-89
+Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyRegister table-a da avtomatik insert getsin
+
