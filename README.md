@@ -541,7 +541,6 @@ Databaza strukturunu https://www.dbdesigner.net/ saytinda qurub, pdf export edib
   
 <h1> Lesson-25 [7 yanvar 2022] </h1>
 <hr>
-<p>Task <p> 
 <a href="https://www.classtime.com/share/c32fec41-124a-4894-b8e5-f20eca21da2a?token=bab36c60edff27c2701eb77a2d02a4e848428bac7f1a346062ed2e8c6b0a3bd7">SQL QUIZ </a> <br/>
 Nofel-89 <br/>
 Fuad-89 <br/>
@@ -551,5 +550,6 @@ Emin-89 <br/>
 <p>Oxumali movzular <p>
 <a href="https://www.c-sharpcorner.com/UploadFile/a53f1a/triggers-in-sql-server/">SQL Server Trigger</a>  <br/>
 <a href="https://minafrzli.medium.com/">ADO NET Connected and Disconnected model</a> <br/>
+<p>Task <p> 
 Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyRegister table-a da avtomatik insert getsin
 
