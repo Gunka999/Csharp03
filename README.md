@@ -512,7 +512,7 @@ Note. Linklər çox olsada, sadədir. <br/>
   
  
 
- <h1> Lesson-23 [26 dekabr 2021] </h1>
+ <h1> Lesson-24 [26 dekabr 2021] </h1>
 <hr>
 <a href="https://minafrzli.medium.com/sql-stored-procedure-af131291060b"> SQL Stored Procedure</a> <br/>
 <a href=""> </a> 
