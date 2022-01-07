@@ -1,0 +1,9 @@
+C:\Users\Mina\source\repos\AdoNetLesson\bin\Debug\AdoNetLesson.exe.config
+C:\Users\Mina\source\repos\AdoNetLesson\bin\Debug\AdoNetLesson.exe
+C:\Users\Mina\source\repos\AdoNetLesson\bin\Debug\AdoNetLesson.pdb
+C:\Users\Mina\source\repos\AdoNetLesson\obj\Debug\AdoNetLesson.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\AdoNetLesson\obj\Debug\AdoNetLesson.Form1.resources
+C:\Users\Mina\source\repos\AdoNetLesson\obj\Debug\AdoNetLesson.Properties.Resources.resources
+C:\Users\Mina\source\repos\AdoNetLesson\obj\Debug\AdoNetLesson.csproj.GenerateResource.cache
+C:\Users\Mina\source\repos\AdoNetLesson\obj\Debug\AdoNetLesson.exe
+C:\Users\Mina\source\repos\AdoNetLesson\obj\Debug\AdoNetLesson.pdb
