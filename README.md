@@ -532,6 +532,13 @@ Databaza strukturunu https://www.dbdesigner.net/ saytinda qurub, pdf export edib
 - parfum satislari datalari ucun bir procedure yazirsiniz.Bu procedure gondeirlmis iki qiymet araliginda
   olan satis melumatlarini asagidaki columnlar seklinde gosterir : 
   Id,ParfumName,BrandName,CategoryName,Price
+  
+  
+  
+ <h1> Lesson-25 [7 yanvar 2022] </h1>
+<hr>
+Task <br>
+Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyRegister table-a da avtomatik insert getsin
    
 - parfum satis datalarini ucun procedure yaradiresinz , parameter olaraq serach metni, min qiymet ve max qiymet qebul eden procedur 
   parfumename, brandname ve ya category name-inde hemin serach valusu olan ve qiymeti gonderilmis min max qiymet intervalinda olan 
