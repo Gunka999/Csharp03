@@ -553,3 +553,12 @@ Emin-89 <br/>
 <p>Task <p> 
 Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyRegister table-a da avtomatik insert getsin
 
+<h1> Lesson-26 [11 yanvar 2022] </h1>
+<hr>
+<p>Oxumali movzular <p>
+<a href="https://minafrzli.medium.com/ado-net-connected-and-disconnected-model-7c766cbb21cd">ADO NET Connected and Disconnected model</a> <br/>
+<a href="https://www.entityframeworktutorial.net/entityframework6/create-entity-data-model.aspx">Creating an Entity Data Model</a> <br/>	
+<a href="https://www.entityframeworktutorial.net/entityframework6/dbcontext.aspx">DbContext in Entity Framework 6</a> <br/>	
+<a href="https://www.entityframeworktutorial.net/querying-entity-graph-in-entity-framework.aspx">Linq-to-Entities Query</a> <br/>
+<p>Task <p> 
+Bazada olan student tablendan EF vsitesile getirib datagridview-a doldurun.
