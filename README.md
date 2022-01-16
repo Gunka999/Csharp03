@@ -562,3 +562,12 @@ Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyReg
 <a href="https://www.entityframeworktutorial.net/querying-entity-graph-in-entity-framework.aspx">Linq-to-Entities Query</a> <br/>
 <p>Task <p> 
 Bazada olan student tablendan EF vsitesile getirib datagridview-a doldurun.
+	
+	
+<h1> Lesson-27 [14 yanvar 2022] </h1>
+<hr>
+Dersde yazdigim medicine taskini tamamlamaq
+
+<h1> Lesson-28 [16 yanvar 2022] </h1>
+<hr>
+Final layihe
