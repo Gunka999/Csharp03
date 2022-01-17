@@ -570,7 +570,7 @@ Dersde yazdigim medicine taskini tamamlamaq
 
 <h1> Lesson-27 [16 yanvar 2022] </h1>
 <hr>
-<h3>Final layihe -Library Managment<h3>
+<b>Final layihe -Library Managment</b>
 <p>Açıqlama -Kitabxanının idarə olunması üçün program təminatı yazmalısınız</p>
 Formlar <br/>
 •	Login <br/>
