@@ -512,7 +512,7 @@ Note. Linklər çox olsada, sadədir. <br/>
   
  
 
- <h1> Lesson-24 [26 dekabr 2021] </h1>
+ <h1> Lesson-23 [26 dekabr 2021] </h1>
 <hr>
 <a href="https://minafrzli.medium.com/sql-stored-procedure-af131291060b"> SQL Stored Procedure</a> <br/>
 <a href=""> </a> 
@@ -539,7 +539,7 @@ Databaza strukturunu https://www.dbdesigner.net/ saytinda qurub, pdf export edib
   Id,ParfumName,BrandName,CategoryName,Price
 
   
-<h1> Lesson-25 [7 yanvar 2022] </h1>
+<h1> Lesson-24 [7 yanvar 2022] </h1>
 <hr>
 <a href="https://www.classtime.com/share/c32fec41-124a-4894-b8e5-f20eca21da2a?token=bab36c60edff27c2701eb77a2d02a4e848428bac7f1a346062ed2e8c6b0a3bd7">SQL QUIZ </a> <br/>
 Nofel-89 <br/>
@@ -553,7 +553,7 @@ Emin-89 <br/>
 <p>Task <p> 
 Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyRegister table-a da avtomatik insert getsin
 
-<h1> Lesson-26 [11 yanvar 2022] </h1>
+<h1> Lesson-25 [11 yanvar 2022] </h1>
 <hr>
 <p>Oxumali movzular <p>
 <a href="https://minafrzli.medium.com/ado-net-connected-and-disconnected-model-7c766cbb21cd">ADO NET Connected and Disconnected model</a> <br/>
@@ -564,10 +564,10 @@ Register formu yazin. ado net vasitesile sqle insert edin. Trigger yazin copyReg
 Bazada olan student tablendan EF vsitesile getirib datagridview-a doldurun.
 	
 	
-<h1> Lesson-27 [14 yanvar 2022] </h1>
+<h1> Lesson-26 [14 yanvar 2022] </h1>
 <hr>
 Dersde yazdigim medicine taskini tamamlamaq
 
-<h1> Lesson-28 [16 yanvar 2022] </h1>
+<h1> Lesson-27 [16 yanvar 2022] </h1>
 <hr>
 Final layihe
