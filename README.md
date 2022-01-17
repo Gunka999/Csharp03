@@ -570,9 +570,9 @@ Dersde yazdigim medicine taskini tamamlamaq
 
 <h1> Lesson-27 [16 yanvar 2022] </h1>
 <hr>
-### Final layihe -Library Managment </br>
+ ###  Final layihe -Library Managment </br>
 <p>Açıqlama -Kitabxanının idarə olunması üçün program təminatı yazmalısınız</p>
-### Formlar <br/>
+ ###  Formlar <br/>
 •	Login <br/>
 •	Registrasiya <br/>
 •	Dashboard <br/>
@@ -580,19 +580,19 @@ Dersde yazdigim medicine taskini tamamlamaq
 •	İdarəçilər - users <br/>
 •	Müştərilər <br/>
 •	Hesabatlar <br/>
-### İzahları <br/>
-### Login <br/>
+ ### İzahları <br/>
+ ### Login <br/>
 İstifadəçi öz username və şifrəsi ilə sistemə daxil olacaq. <br/>
-### Dashboard(işçilər üçün) <br/>
+ ### Dashboard(işçilər üçün) <br/>
 İstifadəçi daxil olduqdan sonra ilk açılacaq pəncərə bu olmalıdır. <br/>
 i.	Sifariş yaratma Müştəri sechilməlidir. Bazadan kitablar axtarışı edilib səbət kimi üstünə istənilən qədər kitab əlavə edilə bilər və qaytarma vaxtını seçərək sifarişi təsdiqləyir. <br/>
 ii.	Kitab qaytarma Bir şəxs kitab gətirib qaytarmaq istəyəndə onun adına görə axtarış edib açıq olan sifarişi çıxmalıdır və seçib qaytarış edəndə kitabın qiymətinə görə hesablama etməli. Gecikmə varsa günə görə kitab qiymətinin 0.5% əlavə pul gəlməlidir. Sifarişi bağla dedikdə isə bağlaya bilir. <br/>
 iii.	Kitab qaytaranları izləmə Tab menü kimi qaytarmaları izləməlidir. Tabda 3 bölmə olacaq bu gün qaytaracaqlar, Sabah qaytaracaqlar və geçikənlər deyə 3 tab olmalıdır. Tab içində müşətrinin adı, nömrəsi və üstündə necə dənə kitab olduğunun yazmalıdır. <br/>
-### Kitablar <br/>
+ ### Kitablar <br/>
 Kitablar üçün crud olmalıdır. <br/>
-### İdarəçilər(Admin gorecek) <br/>
+ ### İdarəçilər(Admin gorecek) <br/>
 İdarəçilər üçün crud olmalıdır.(Registrasiyadan keçməli, admin user tərəfdən təsdiq gözləməli. ) <br/>
-### Müştərilər <br/>
+ ### Müştərilər <br/>
 Müştərilər üçün crud olmalıdır. <br/>
-### Hesabatlar(Admin gorecek) <br/>
+ ### Hesabatlar(Admin gorecek) <br/>
 İdarəçi hesabatlar bölməsini açdıqda. Tarix intervalı seçir o araqlıqdakı kitabxana haqqında hesabat ala bilməlidir.  <br/>
