@@ -596,3 +596,7 @@ Müştərilər üçün crud olmalıdır. <br/>
  <h3> Hesabatlar(Admin gorecek) </h3>
 İdarəçi hesabatlar bölməsini açdıqda. Tarix intervalı seçir o araqlıqdakı kitabxana haqqında hesabat ala bilməlidir.  <br/>
 <p>Ugurlar guys :) P.S final layihesinde muellim desteyi qeti qadagandir</p>
+
+<h1> Lesson-27 [23 yanvar 2022] </h1>
+<hr>
+Layihe teqdimati
