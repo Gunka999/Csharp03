@@ -600,3 +600,16 @@ Müştərilər üçün crud olmalıdır. <br/>
 <h1> Lesson-27 [23 yanvar 2022] </h1>
 <hr>
 Layihe teqdimati
+
+
+<h1> Lesson-28 [28 yanvar 2022] </h1>
+<hr>
+<a href="https://www.tutorialsteacher.com/core">NET Core Overview</a> <br>
+<a href="https://www.tutorialsteacher.com/core/aspnet-core-environment-setup">aspnet-core-environment-setup</a> <br>
+<a href="https://www.tutorialsteacher.com/core/first-aspnet-core-application">first-aspnet-core-application</a> <br>
+<a href="https://www.tutorialsteacher.com/core/aspnet-core-application-project-structure">aspnet-core-application-project-structure</a> <br>
+<a href="https://www.tutorialsteacher.com/core/aspnet-core-wwwroot">wwwroot</a> <br>
+<a href="https://www.tutorialsteacher.com/core/aspnet-core-program">program.cs</a> <br>
+<a href="https://www.tutorialsteacher.com/core/aspnet-core-startup">startup</a> <br>
+<a href="https://www.tutorialsteacher.com/core/aspnet-core-middleware">middleware</a> <br>
+QEYD:asp net core in action kitabindan oxumaq!
