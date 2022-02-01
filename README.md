@@ -613,3 +613,8 @@ Layihe teqdimati
 <a href="https://www.tutorialsteacher.com/core/aspnet-core-startup">startup</a> <br>
 <a href="https://www.tutorialsteacher.com/core/aspnet-core-middleware">middleware</a> <br>
 QEYD:asp net core in action kitabindan oxumaq!
+
+
+<h1> Lesson-29 [30 yanvar 2022] </h1>
+<hr>
+Bir book list yaradin kitabin adi ve sekli olsun. Viewda istediyin front numunesine tetbiq edin
