@@ -618,3 +618,17 @@ QEYD:asp net core in action kitabindan oxumaq!
 <h1> Lesson-29 [30 yanvar 2022] </h1>
 <hr>
 Bir book list yaradin kitabin adi ve sekli olsun. Viewda istediyin front numunesine tetbiq edin
+
+
+<h1> Lesson-30 [4 fevral 2022] </h1>
+<hr>
+Oxumali movzular
+<a href="https://www.tutorialsteacher.com/mvc/viewbag-in-asp.net-mvc">viewbag</a> <br>
+<a href="https://www.tutorialsteacher.com/mvc/mvc-view">mvc-view</a> <br>
+<a href="https://www.tutorialsteacher.com/mvc/mvc-controller">controller</a> <br>
+<a href="https://www.tutorialsteacher.com/mvc/action-method-in-mvc">action</a> <br>
+<a href="https://www.tutorialsteacher.com/mvc/mvc-model">model</a> <br>
+<a href="https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc">layout</a> <br>
+<a href="https://www.c-sharpcorner.com/blogs/validation-in-asp-net-mvc-using-dataannotations">dataannotations</a> <br>
+<a href=""></a> <br>
+Dersde yazdigimiz kimi bir front goturun, her etdiklerimizin her birini tekrar edin
