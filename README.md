@@ -632,3 +632,11 @@ Oxumali movzular
 <a href="https://www.c-sharpcorner.com/blogs/validation-in-asp-net-mvc-using-dataannotations">dataannotations</a> <br>
 <a href=""></a> <br>
 Dersde yazdigimiz kimi bir front goturun, her etdiklerimizin her birini tekrar edin
+
+<h1> Lesson-31 [6 fevral 2022] </h1>
+<hr>
+Oxumali movzular
+<a href="https://www.tutorialsteacher.com/mvc/area-in-asp.net-mvc">area</a> <br>
+<a href=""></a> <br>
+Homework <br>
+Dersde yazdiimiz kimi Admin panelden daxil etmekle sehifede itemlarin gorunmesi
